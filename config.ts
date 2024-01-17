@@ -8,7 +8,7 @@ import type { RuntimeConfig } from "@nuxt/schema";
 
 //export const API_BASE_URL = 'http://localhost:3000/bblocks6';
 //export const API_BASE_URL = 'https://ogcprez.sgraljii8d3km.ap-southeast-2.cs.amazonlightsail.com';
-export const API_BASE_URL = 'https://prez-v4.sgraljii8d3km.ap-southeast-2.cs.amazonlightsail.com';
+export const API_BASE_URL = 'https://linked-data-api.bgs.ac.uk';
 export const CATALOG_LIST_URL = 'catalogs'
 
 const getUrl = (url:string, cfg:RuntimeConfig) => {
